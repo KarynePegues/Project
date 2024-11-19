@@ -1,7 +1,7 @@
 "Table with row headers in columns A and B, and column headers in rows 4 through 5.",,,,,,,,,,,,,,
 "Table 4b.  Reported Voting and Registration, by Sex, Race and Hispanic Origin, for States: November 2016",,,,,,,,,,,,,,
 (In thousands),,,,,,,,,,,,,,
-STATE,Race and Hispanic-Origin,Sex,Total Population,Total Citizen Population,Registered,,,,,Voted,,,,
+STATE,Race,Sex,Total Population,Total Citizen Population,Registered,,,,,Voted,,,,
 ,,,,,Total registered,"Percent registered
 (Total)",Margin of Error 1,"Percent registered
 (Citizen)",Margin of Error 1,Total voted,"Percent voted
